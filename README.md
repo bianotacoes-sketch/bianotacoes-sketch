@@ -33,12 +33,15 @@ I work across the entire data lifecycle: from process automation (RPA) and web s
 * **Streamlit**: Fast prototyping of data science tools and interactive dashboards.
 
 ### ⚙️ Data Engineering & Pipelines
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Pentaho](https://img.shields.io/badge/Pentaho-004B87?style=for-the-badge)
 ![SSIS](https://img.shields.io/badge/Microsoft_SSIS-007ACC?style=for-the-badge&logo=microsoft&logoColor=white)
 
-* **ETL / ELT**: Implementing pipelines using **AWS Glue**, **Databricks**, **Pentaho (PDI)**, and **SSIS (SQL Server Integration Services)**.
-* **Data Architecture**: Structuring data layers based on the **Medallion architecture (Bronze, Silver, and Gold)** to ensure data quality and governance.
+* **Orchestration & ETL/ELT**: Designing, developing, and migration of robust pipelines using **AWS Glue**, **Databricks**, **Pentaho (PDI)**, and **SSIS (SQL Server Integration Services)**.
+* **Cloud Database & Storage**: Experience provisioning and orchestrating databases in the cloud using **AWS RDS**.
+* **Data Architecture**: Structuring scalable databases into organized layers based on the **Medallion architecture (Bronze, Silver, and Gold)** to enforce data quality and governance.
 
 ### 🛢️ SQL & Relational Databases
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
